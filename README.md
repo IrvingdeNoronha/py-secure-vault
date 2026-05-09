@@ -1,7 +1,7 @@
 # 🛡️ SecureVault CLI
 **A Security-Focused Password Manager for the Linux Terminal**
 
-Built by a first-year BCA student with a focus on async-ready development and system security. This tool uses AES-128 encryption (Fernet) to manage sensitive data locally.
+Built by a first-year BCA student with a focus on async-ready development and system security. Uses PBKDF2 key derivation for Master Password security.
 
 ## 🚀 Why this exists
 As a developer based in **Goa (IST)**, I built this to demonstrate my ability to:
